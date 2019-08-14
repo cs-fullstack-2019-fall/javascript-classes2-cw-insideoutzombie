@@ -19,6 +19,7 @@ class Movie {
   }
 }
 
+// you only created one instance of the class. The directions call for two.
 let coolMovie = new Movie("Zombies", 7, 2018);
 console.log(coolMovie);
 coolMovie.newMovie();
