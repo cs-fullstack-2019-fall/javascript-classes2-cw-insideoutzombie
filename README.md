@@ -9,3 +9,5 @@ Create a class Product that represents a product sold online. A product has a pr
 The class should have:
 1. A constructor to hold the values.
 2. A method ```printProduct()``` that prints a product in the following form: ```Banana, price 1.1, amount 13```
+
+// Kenn said to ignore the second question ~~'wild huh'~~
